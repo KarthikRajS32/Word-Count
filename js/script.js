@@ -1,5 +1,5 @@
 function enter() {
-    let input = document.getElementById("input").value;
+  let input = document.getElementById("input").value;
 
   let arr = input.replaceAll(" ","");
   
